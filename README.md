@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /technical/Express和jwt认证实现RESTful-API
 features:
 - title: HTML
   details: Minimal setup with markdown-centered project structure helps you focus on writing.

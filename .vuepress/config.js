@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
-      { text: 'Guide', link: '/guide/' },
+      { text: '文章', link: '/technical/Express和jwt认证实现RESTful-API' },
     ],
     sidebar: [
       ['/technical/Express和jwt认证实现RESTful-API','Express和jwt认证实现RESTful-API'],

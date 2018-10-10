@@ -1,6 +1,7 @@
 module.exports = {
   title: '风散云烟',
   description: '风散云烟博客',
+  ga: 'UA-127225362-1',
   themeConfig: {
     sidebar: [
       ['/','主页'],

@@ -5,6 +5,12 @@ module.exports = {
     nav: [
       { text: '主页', link: '/' },
       { text: 'Guide', link: '/guide/' },
+    ],
+    sidebar: [
+      ['/technical/Express和jwt认证实现RESTful-API','Express和jwt认证实现RESTful-API'],
+      ['/technical/Vue-table-component','Vue-table-component'],
+      ['/technical/一些常用的javascript代码','一些常用的javascript代码'],
+      ['/technical/使用SheetJS实现纯前端导出Excel数据','使用SheetJS实现纯前端导出Excel数据']
     ]
   },
   markdown: {

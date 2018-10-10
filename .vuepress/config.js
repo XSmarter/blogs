@@ -2,9 +2,6 @@ module.exports = {
   title: '风散云烟',
   description: '风散云烟博客',
   themeConfig: {
-    nav: [
-      { text: '主页', link: '/' }
-    ],
     sidebar: [
       ['/','主页'],
       ['/technical/Express和jwt认证实现RESTful-API.html','Express和jwt认证实现RESTful-API'],

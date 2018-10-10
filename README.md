@@ -1,13 +1,7 @@
 ---
-home: true
-actionText: Get Started →
-actionLink: /technical/Express和jwt认证实现RESTful-API
-features:
-- title: HTML
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present XSmarter
+title: Express和jwt认证实现RESTful-API
+date: 2018-09-07 15:24:37
+prev: false
+next: /technical/Express和jwt认证实现RESTful-API.md
 ---
+博客

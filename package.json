@@ -2,6 +2,7 @@
   "name": "VuePress",
   "version": "1.0.0",
   "scripts": {
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "dev": "vuepress dev"
   }
 }

@@ -1,6 +1,8 @@
 ---
 title: 一些常用的javascript代码
 date: 2018-08-30 14:52:28
+prev: /technical/Vue-table-component.md
+next: /technical/使用SheetJS实现纯前端导出Excel数据.md
 ---
 整理一下常用的javascript代码，记录自己成长的脚步。  
 + 关于jquery的ajax封装，方便项目统一调用，出现问题快速定位，减少代码量

@@ -3,9 +3,8 @@ module.exports = {
   description: '风散云烟博客',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '主页', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'External', link: 'https://google.com' },
     ]
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: 一些常用的javascript代码
+long: zh-CN
 date: 2018-08-30 14:52:28
 prev: /technical/Vue-table-component.html
 next: /technical/使用SheetJS实现纯前端导出Excel数据.html

@@ -1,5 +1,6 @@
 ---
 title: 使用SheetJS实现纯前端导出Excel数据
+long: zh-CN
 date: 2018-09-07 17:41:34
 prev: /technical/一些常用的javascript代码.html
 next: false

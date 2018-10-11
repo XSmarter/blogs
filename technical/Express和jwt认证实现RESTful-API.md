@@ -1,5 +1,6 @@
 ---
 title: Express和jwt认证实现RESTful-API
+long: zh-CN
 date: 2018-09-07 15:24:37
 prev: /
 next: /technical/Vue-table-component.html

@@ -3,6 +3,10 @@ module.exports = {
   description: '风散云烟博客',
   ga: 'UA-127225362-1',
   themeConfig: {
+    nav: [
+      { text: '技术', link: '/' },
+      { text: '工作', items: [{text: '题库', link: '/work/题库.html'}] },
+    ],
     sidebar: [
       ['/','主页'],
       ['/technical/Express和jwt认证实现RESTful-API.html','Express和jwt认证实现RESTful-API'],

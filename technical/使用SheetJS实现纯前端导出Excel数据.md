@@ -2,8 +2,8 @@
 title: 使用SheetJS实现纯前端导出Excel数据
 long: zh-CN
 date: 2018-09-07 17:41:34
-# prev: /technical/一些常用的javascript代码.html
-# next: false
+prev: /technical/一些常用的javascript代码.html
+next: false
 ---
 由于同事后端懒得处理导出Excel，我又打不过他只好自己想办法用纯前端导出Excel咯，在这里友好的问候那个懒惰的同事——垃圾、狗屎、shit、rubbish(关系很好，日常问候)，呼~爽！！！
 

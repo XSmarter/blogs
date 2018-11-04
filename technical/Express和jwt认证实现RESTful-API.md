@@ -2,7 +2,7 @@
 title: Express和jwt认证实现RESTful-API
 long: zh-CN
 date: 2018-09-07 15:24:37
-prev: /
+prev: /technical/gulp使用笔记.html
 next: /technical/Vue-table-component.html
 ---
 最近打算用nodejs的express实现RESTful API,但是如何保证接口的安全便成了首要解决的问题。当然目前 解决接口安全好像选择并不多，最后比较下用jwt来kill掉此问题。

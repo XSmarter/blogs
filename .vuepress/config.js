@@ -9,6 +9,7 @@ module.exports = {
     ],
     sidebar: [
       ['/','主页'],
+      ['/technical/gulp使用笔记.html','gulp使用笔记'],
       ['/technical/Express和jwt认证实现RESTful-API.html','Express和jwt认证实现RESTful-API'],
       ['/technical/Vue-table-component.html','Vue-table-component'],
       ['/technical/一些常用的javascript代码.html','一些常用的javascript代码'],
@@ -16,6 +17,6 @@ module.exports = {
     ]
   },
   markdown: {
-    lineNumbers: true
+    
   }
 }

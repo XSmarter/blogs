@@ -4,8 +4,7 @@ module.exports = {
   ga: 'UA-127225362-1',
   themeConfig: {
     nav: [
-      { text: '技术', link: '/' },
-      { text: '工作', items: [{text: '题库', link: '/work/题库.html'}] },
+      { text: '技术', link: '/' }
     ],
     sidebar: [
       ['/','主页'],

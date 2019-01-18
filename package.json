@@ -6,7 +6,6 @@
   "directories": {
     "doc": "doc"
   },
-  "dependencies": {},
   "devDependencies": {
     "vuepress": "^0.14.4"
   },
@@ -25,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/XSmarter/blogs/issues"
   },
-  "homepage": "https://github.com/XSmarter/blogs#readme"
+  "homepage": "https://github.com/XSmarter/blogs#readme",
+  "dependencies": {
+    "bulma": "^0.7.2"
+  }
 }

@@ -4,10 +4,10 @@ module.exports = {
   ga: 'UA-127225362-1',
   themeConfig: {
     nav: [
-      { text: '技术', link: '/' }
+      { text: '前端技术', link: '/technical/' },
+      { text: '其他', link: '/' }
     ],
     sidebar: [
-      ['/','主页'],
       ['/technical/gulp使用笔记.html','gulp使用笔记'],
       ['/technical/Express和jwt认证实现RESTful-API.html','Express和jwt认证实现RESTful-API'],
       ['/technical/Vue-table-component.html','Vue-table-component'],

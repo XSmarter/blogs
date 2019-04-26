@@ -10,5 +10,5 @@ heroImage: /timg.jpg
 #   details: 
 # - title: 总结
 #   details: 
-# footer: MIT Licensed | Copyright © 2018-present 风散云烟
+footer: MIT Licensed | Copyright © 2018-present 风散云烟
 ---

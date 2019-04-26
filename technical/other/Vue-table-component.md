@@ -2,8 +2,8 @@
 title: Vue table component
 long: zh-CN
 date: 2018-08-30 13:00:41
-prev: /technical/Express和jwt认证实现RESTful-API.html
-next: /technical/一些常用的javascript代码.html
+prev: /technical/other/Express和jwt认证实现RESTful-API.html
+next: /technical/other/一些常用的javascript代码.html
 ---
 公司目前很多业务都用到了table，闲来无事决定用Vue写一个基础的table组件，方便后续业务使用。
 

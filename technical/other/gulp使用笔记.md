@@ -3,7 +3,7 @@ title: gulp使用笔记
 long: zh-CN
 date: 2018-11-04 15:24:37
 prev: /
-next: /technical/Express和jwt认证实现RESTful-API.html
+next: /technical/other/Express和jwt认证实现RESTful-API.html
 ---
 ![gulp](./assets/gulp.png)
 身为一名很有上进心得前端er，对于新出得技术是一定要搞一搞得，今天我们搞它。每次看到这个图片总想来一杯可口可乐，也不知道为啥:sweat_smile:

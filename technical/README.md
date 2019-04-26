@@ -2,12 +2,8 @@
 title: 风散云烟
 long: zh-CN
 ---
-  <router-link tag='a' class="panel-block is-active" to="/technical/gulp使用笔记.html">
-    gulp使用笔记
-  </router-link>
-  <router-link tag='a' class="panel-block" to="/technical/Express和jwt认证实现RESTful-API.html">
-    Express和jwt认证实现RESTful-API
-  </router-link>
+[gulp使用笔记](/technical/gulp使用笔记.html)
+[Express和jwt认证实现RESTful-API](/technical/Express和jwt认证实现RESTful-API.html)
   <router-link tag='a' class="panel-block" to="/technical/Vue-table-component.html">
     Vue-table-component
   </router-link>

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /timg.jpg
 actionText: 风散云烟
 actionLink: /technical/
 features:
